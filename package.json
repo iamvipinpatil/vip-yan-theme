@@ -1,0 +1,19 @@
+{
+  "name": "@iamvipinpatil/vip-yan-admin",
+  "version": "1.0.0",
+  "description": "Admin-lte library folder structure and file names are changed that why published again but original auther is almasaeed2010...Please follow and use admin-lte original theme in your projects...Thank you almasaeed2010 for the theme.",
+  "main": "dist/js/app.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamvipinpatil/vip-yan-theme.git"
+  },
+  "author": "iamvipinpatil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamvipinpatil/vip-yan-theme/issues"
+  },
+  "homepage": "https://github.com/iamvipinpatil/vip-yan-theme#readme"
+}
